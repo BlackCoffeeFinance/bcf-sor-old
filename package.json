@@ -1,6 +1,6 @@
 {
-    "name": "@balancer-labs/sor",
-    "version": "3.0.0-beta.0",
+    "name": "bcf-sor",
+    "version": "0.1.0",
     "license": "GPL-3.0-only",
     "main": "dist/index.js",
     "module": "dist/index.esm.js",
